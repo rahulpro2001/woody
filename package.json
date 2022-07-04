@@ -12,5 +12,15 @@
     "nodemon": "^2.0.18",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "woodshop",
+  "version": "1.0.0",
+  "main": "passport-config.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
